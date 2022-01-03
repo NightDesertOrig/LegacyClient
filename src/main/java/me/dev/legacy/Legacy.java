@@ -147,7 +147,7 @@ public class Legacy {
 
     @EventHandler
     public void preInit(FMLPreInitializationEvent event) {
-        LOGGER.info("blackbro4 n' rianix cool ppl's");
+        LOGGER.info("Just Cracked By NightDesert");
     }
 
     public static void setWindowIcon() {
